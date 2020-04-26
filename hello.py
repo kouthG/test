@@ -2,7 +2,7 @@
 # coding: utf-8
 
 def main():
-    print("hello every body")
+    print("HELLO every body")
 
 if __name__ == '__main__':
     main()
